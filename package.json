@@ -1,0 +1,51 @@
+{
+  "name": "@ipalfish/ipalfish-cli",
+  "version": "0.1.0",
+  "description": "ipalfish-cli 命令工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.igetcool.com:front-end/igc-cli.git"
+  },
+  "bin": {
+    "ipalfish-cli": "index.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/eslint-parser": "^7.13.10",
+    "@babel/eslint-plugin": "^7.13.10",
+    "@typescript-eslint/eslint-plugin": "^4.18.0",
+    "@typescript-eslint/parser": "^4.18.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "axios": "0.21.0",
+    "cheerio": "1.0.0-rc.3",
+    "colors": "1.4.0",
+    "consolidate": "0.16.0",
+    "date-fns": "^2.19.0",
+    "ejs": "3.1.5",
+    "eslint": "^7.22.0",
+    "eslint-plugin-vue": "^7.7.0",
+    "file-type": "12.0.0",
+    "global": "4.4.0",
+    "globby": "10.0.0",
+    "graceful-fs": "4.2.2",
+    "html-webpack-plugin": "4.4.1",
+    "inquirer": "3.0.0",
+    "js-beautify": "^1.13.5",
+    "junk": "3.1.0",
+    "make-dir": "3.0.0",
+    "metalsmith": "2.3.0",
+    "minimist": "1.2.5",
+    "ora": "2.0.0",
+    "p-pipe": "3.0.0",
+    "pinkie-promise": "2.0.1",
+    "replace-ext": "1.0.0",
+    "shelljs": "0.8.4",
+    "typescript": "^4.2.3"
+  }
+}
