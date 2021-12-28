@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.igetcool.com:front-end/igc-cli.git"
+    "url": "git@github.com:hexiaolong24/kobe-cli.git"
   },
   "bin": {
     "ipalfish-cli": "index.js"

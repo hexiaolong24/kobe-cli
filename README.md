@@ -2,16 +2,9 @@
 
 ```text
 ├── command
-│   ├── build
-│   ├── compressImg
-│   ├── demo
 │   ├── help
-│   ├── init
-│   ├── install
-│   ├── lint
-│   ├── push
-│   ├── update
-│   └── version
+│   ├── version
+│   └── ytj
 ├── deps
 ├── rules
 └── utils
